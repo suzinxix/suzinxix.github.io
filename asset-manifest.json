@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.317de7e6.css",
+    "main.js": "./static/js/main.591cd451.js",
+    "static/media/Tenada.ttf": "./static/media/Tenada.0cfe8963fde304575974.ttf",
+    "static/media/instagram.png": "./static/media/instagram.eded85c810e572e9c0b6.png",
+    "static/media/lens.png": "./static/media/lens.f251a83ab1785bbf6084.png",
+    "static/media/aggression.png": "./static/media/aggression.67a930471b4b7a38c1d3.png",
+    "static/media/happy.png": "./static/media/happy.860bb53b6aa3a7ba5376.png",
+    "static/media/sad.png": "./static/media/sad.33b8ff6df2026e6377f3.png",
+    "static/media/anxiety.png": "./static/media/anxiety.c6977684fadc7ca5692f.png",
+    "service-worker.js": "./service-worker.js",
+    "static/media/kakaotalk.png": "./static/media/kakaotalk.f3c76effeae07c43f359.png",
+    "index.html": "./index.html",
+    "main.317de7e6.css.map": "./static/css/main.317de7e6.css.map",
+    "main.591cd451.js.map": "./static/js/main.591cd451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317de7e6.css",
+    "static/js/main.591cd451.js"
+  ]
+}
